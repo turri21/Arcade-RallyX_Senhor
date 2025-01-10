@@ -1,3 +1,8 @@
+-=(Rally-X_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: New Rally-X](https://www.arcade-museum.com/game_detail.php?game_id=9259) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 by [MiSTer-X](https://twitter.com/mrx_8b)  
